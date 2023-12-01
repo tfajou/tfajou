@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MBTI"
+rootProject.name = "Calculator Make"
 include(":app")
  
